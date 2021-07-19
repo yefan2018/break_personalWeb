@@ -1,4 +1,6 @@
 # breaknine
 网站制作首秀
-网址：https://yefan2018.github.io/breaknine/
-项目命名为yefan2018.github.io，则网址会变为https://yefan2018.github.io/
+网址：https://yefan2018.github.io/break_personalWeb/
+
+仓库名为break_personalWeb
+仓库命名为yefan2018.github.io，则网址会自动剪短，变为https://yefan2018.github.io/  
